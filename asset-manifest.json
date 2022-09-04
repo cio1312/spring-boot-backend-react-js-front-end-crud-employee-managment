@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spring-boot-backend-react-js-front-end-crud-employee-managment/static/css/main.073c9b0a.css",
+    "main.js": "/spring-boot-backend-react-js-front-end-crud-employee-managment/static/js/main.55068eea.js",
+    "static/js/787.f6e68106.chunk.js": "/spring-boot-backend-react-js-front-end-crud-employee-managment/static/js/787.f6e68106.chunk.js",
+    "index.html": "/spring-boot-backend-react-js-front-end-crud-employee-managment/index.html",
+    "main.073c9b0a.css.map": "/spring-boot-backend-react-js-front-end-crud-employee-managment/static/css/main.073c9b0a.css.map",
+    "main.55068eea.js.map": "/spring-boot-backend-react-js-front-end-crud-employee-managment/static/js/main.55068eea.js.map",
+    "787.f6e68106.chunk.js.map": "/spring-boot-backend-react-js-front-end-crud-employee-managment/static/js/787.f6e68106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.55068eea.js"
+  ]
+}
